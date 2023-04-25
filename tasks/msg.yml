@@ -1,0 +1,2 @@
+- name: Display a simple Message
+  debug: msg="This message is displayed from message role with tag {{version}}"

@@ -1,0 +1,4 @@
+---
+- include_role:
+    name: message
+    tasks_from: msg.yml
